@@ -1,0 +1,145 @@
+﻿#,College,City,Crime
+1,Appalachian State University,"Boone, NC",0.981
+2,Arizona State University,"Tempe, AZ",1.896
+3,Auburn University,"Auburn, AL",1.099
+4,Ball State University,"Muncie, IN",1.806
+5,Boise State University,"Boise, ID",0.763
+6,Boston University,"Boston, MA",2.158
+7, Brigham Young University,"Provo, UT",0.528
+8,Brigham Young University-Idaho,"Rexburg, ID",0.221
+9, California Polytechnic State University: San Luis Obispo,"San Luis Obispo, CA",0.959
+10,California Polytechnic State University: Pomona,"Pomona, CA",2.227
+11,California State University: Chico,"Chico, CA",0.628
+12,California State University: Fresno,"Fresno, CA",2.593
+13,California State University: Fullerton,"Fullerton, CA",0.747
+14,California State University: Long Beach,"Long Beach, CA",1.032
+15,California State University: Los Angeles,"Los Angeles, CA",1.644
+16,California State University: Northridge,"San Fernando, CA",1.653
+17,California State University: Sacramento,"Sacramento, CA",0.928
+18,California State University: San Bernardino,"San Bernardino, CA",1.333
+19,Central Michigan University,"Mount Pleasant, MI",0.887
+20,City University of New York: Hunter College,"New York, NY",0.263
+21,City University of New York: New York City College of Technology,"Brooklyn, NY",0.125
+22,City University of New York: Queens College,"Queens, NY",0.762
+23,Clemson University,"Clemson, SC",2.26
+24,Colorado State University,"Fort Collins, CO",0.821
+25,DePaul University,"Chicago,IL",0.512
+26,Drexel University,"Philadelphia, PA",1.971
+27,East Carolina University,"Greenville, NC",1.168
+28,Eastern Michigan University,"Ypsilanti, MI",1.238
+29,Florida Atlantic University,"Boca Raton, FL",1.231
+30,Florida International University,"Miami, FL",1.547
+31,Florida State University,"Tallahassee, FL",2.361
+32,George Mason University,"Fairfax, VA",1.17
+33,Georgia Southern University,"Statesboro, GA",0.742
+34,Georgia State University,"Atlanta, GA",0.625
+35,Grand Valley State University,"Allendale, MI",0.365
+36,Illinois State University,"Normal, IL",2.487
+37,Indiana University Bloomington,"Bloomington, IN",3.183
+38,Indiana University-Purdue University Indianapolis,"Indianapolis, IN",2.424
+39,Iowa State University,"Ames, IA",2.263
+40,James Madison University,"Harrisonburg, VA",1.014
+41,Kansas State University,"Manhattan, KS",1.383
+42,Kennesaw State University,"Kennesaw, GA",1.613
+43,Kent State University,"Kent, OH",0.862
+44,LSU,"Baton Rouge, LA",2.692
+45,Metropolitan State University of Denver,"Denver, CO",3.195
+46,Michigan State University,"East Lansing, MI",2.342
+47,Middle Tennessee State University,"Murfreesboro, TN",1.74
+48,Mississippi State University,"Mississippi State, MS",2.987
+49,Missouri State University,"Springfield, MO",0.444
+50,New York University,"New York, NY",0.66
+51,North Carolina State University,"Raleigh, NC",2.157
+52,Northeastern University,"Boston, MA",1.15
+53,Northern Arizona University,"Flagstaff, AZ",2.327
+54,Northern Illinois University ,"DeKalb, IL",1.261
+55,Oakland University,"Rochester, MI",1.29
+56,Ohio State University,"Columbus, OH",1.249
+57,Ohio University,"Athens, OH",1.489
+58,Oklahoma State University,"Stillwater, OK",2.214
+59,Old Dominion University,"Norfolk, VA",2.222
+60,Oregon State University,"Corvallis, OR",2.884
+61,Penn State University,"State College, PA",3.419
+62,Portland State University,"Portland, OR",1.889
+63,Purdue University,"West Lafayette, IN",0.979
+64,"Rutgers, The State University of New Jersey","Piscataway, NJ",2.303
+65,Sam Houston State University,"Huntsville, TX",0.399
+66,San Diego State University,"San Diego, CA",3.045
+67,San Francisco State University,"San Francisco, CA",1.896
+68,San Jose State University,"San Jose, CA",2.017
+69,SUNY University at Buffalo,"Buffalo, NY",3.12
+70,SUNY University at Stony Brook,"Stony Brook, NY",5.1
+71,Temple University,"Philadelphia, PA",0.38
+72,Texas A&M University,"College Station, TX",0.737
+73,Texas State University: San Marcos,"San Marcos, TX",1.672
+74,Texas Tech University,"Lubbock, TX",1.083
+75,Thomas Edison State College,"Trenton, NJ",0
+76,Towson University,"Towson, MD",1.072
+77,Troy University,"Troy, AL",0.382
+78,University of Akron,"Akron, OH",1.019
+79,University of Alabama,"Tuscaloosa, AL",2.926
+80,University of Arizona,"Tucson, AZ",1.402
+81,University of Arkansas,"Fayetteville, AR",3.017
+82,University of California: Berkeley,"Berkeley, CA",2.961
+83,University of California: Davis,"Davis, CA",3.624
+84,University of California: Irvine,"Irvine, CA",2.207
+85,University of California: Los Angeles,"Los Angeles, CA",3.54
+86,University of California: Riverside,"Riverside, CA",3.158
+87,University of California: San Diego,"San Diego, CA",2.203
+88,University of California: Santa Barbara,"Santa Barbara, CA",2.721
+89,University of California: Santa Cruz,"Santa Cruz, CA",2.177
+90,University of Central Florida,"Orlando,FL",1.197
+91,University of Central Oklahoma,"Edmond, OK",1.334
+92,University of Cincinnati,"Cincinnati, OH",0
+93,University of Colorado Boulder,"Boulder, CO",2.211
+94,University of Connecticut,"Storrs, CT",2.745
+95,University of Delaware,"Newark, DE",1.815
+96,University of Florida,"Gainesville, FL",1.129
+97,University of Georgia,"Athens, GA",1.982
+98,University of Houston,"Houston, TX",2.662
+99,University of Illinois at Chicago,"Chicago,IL",1.353
+100,University of Illinois at Urbana-Champaign,"Champaign, IL",1.171
+101,University of Iowa,"Iowa City, IA",1.275
+102,University of Kansas,"Lawrence, KA",1.217
+103,University of Kentucky,"Lexington, KY",1.359
+104,University of Maryland: College Park,"College Park, MD",3.003
+105,University of Maryland: University College,"Adelphi, MD",0
+106,University of Massachusetts: Amherst,"Amherst, MA",1.852
+107,University of Memphis,"Memphis, TN",2.288
+108,University of Michigan,"Ann Arbor, MI",1.849
+109,University of Minnesota: Twin Cities,"Minneapolis, MN",1.066
+110,University of Mississippi,"University, MS",2.744
+111,University of Missouri: Columbia,"Columbia, MO",0.948
+112,University of Nebraska: Lincoln,"Lincoln, NE",0.61
+113,University of Nevada: Las Vegas,"Las Vegas, NV",2.302
+114,University of New Mexico,"Albuquerque, NM",3.175
+115,University of North Carolina at Chapel Hill,"Chapel Hill, NC",1.991
+116,University of North Carolina at Charlotte,"Charlotte, NC",3.284
+117,University of North Texas,"Denton, TX",0.793
+118,University of Oklahoma,"Norman, OK",2.027
+119,University of Oregon,"Eugene, OR",2.009
+120,University of Pittsburgh,"Pittsburgh, PA",1.356
+121,University of South Carolina,"Columbia, SC",4.752
+122,University of South Florida,"Tampa, FL",1.692
+123,University of Southern California,"Los Angeles, CA",1.736
+124,University of Tennessee,"Knoxville, TN",1.424
+125,University of Texas at Arlington,"Arlington, TX",1.465
+126,University of Texas at Austin,"Austin, TX",1.252
+127,University of Texas at El Paso,"El Paso, TX",2.562
+128,University of Texas at San Antonio,"San Antonio, TX",0.872
+129,University of Texas-Pan American,"Edinburg, TX",0.315
+130,University of Toledo,"Toledo, OH",5.13
+131,University of Utah,"Salt Lake City, UT",3.095
+132,University of Washington,"Seattle, WA",1.225
+133,University of Wisconsin-Madison,"Madison, WI",1.55
+134,University of Wisconsin-Millwaukee,"Millwaukee, WI",1.465
+135,Utah State University,"Logan, UT",0.598
+136,Utah Valley University,"Orem, UT",0.449
+137,Virginia Commonwealth University,"Richmond, VA",0.632
+138,Virginia Tech University,"Blacksburg, VA",1.649
+139,Washington State University,"Pullman, WA",1.427
+140,Wayne State University,"Detroit, MI",1.138
+141,Weber State University,"Ogden, UT",0.514
+142,West Virginia University,"Morgantown, WV",1.317
+143,Western Kentucky University,"Bowling Green, KY",2.044
+144,Western Michigan University,"Kalamazoo, MI",0.877
